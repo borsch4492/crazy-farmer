@@ -1,10 +1,12 @@
 import pygame
 from inputs import get_gamepad
 
+
 pygame.init()
 window = pygame.display.set_mode((500,500))
 
 pygame.display.set_caption("crazy-farmer.py")
+
 
 x = 50
 y = 50
@@ -29,7 +31,7 @@ while run:
 
     #if keys[pygame.K_UP]:
     if len(events) > 0:
-    
+
 
         for event in events:
             #print(event.ev_type, event.code, event.state)
