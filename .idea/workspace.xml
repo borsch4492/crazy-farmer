@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45d526fd-36e9-4077-ba7d-26f595502d00" name="Default Changelist" comment="" />
+    <list default="true" id="45d526fd-36e9-4077-ba7d-26f595502d00" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +21,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -112,10 +115,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1600863347797" />
-    <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1600863831231">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="519" y="141" key="FileChooserDialogImpl" timestamp="1601142876702">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600863831231" />
+    <state x="519" y="141" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1601142876702" />
     <state width="1308" height="163" key="GridCell.Tab.0.bottom" timestamp="1600864772375">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -132,10 +136,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1308" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600864772375" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1600864630350">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="207" y="11" key="SettingsEditor" timestamp="1601142897620">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600864630350" />
+    <state x="207" y="11" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1601142897620" />
     <state x="346" y="49" key="search.everywhere.popup" timestamp="1600863425675">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
